@@ -1,0 +1,82 @@
+{
+         "normal": {
+            "uno": "#735259",
+            "dos": "linear-gradient( #735259 20%, #AE6675 100%)"
+        },
+        "fighting": {
+            "uno": "#9D422B",
+            "dos": "linear-gradient( #9D422B 20%, #CD5435 100%)"
+        },
+        "flying": {
+            "uno": "#8F75A3",
+            "dos": "linear-gradient( #8F75A3 20%, #0000ff70  100%)"
+        },
+        "poison": {
+            "uno": "#6F3F9F",
+            "dos": "linear-gradient( #6F3F9F 20%, #B67BEF 100%)"
+        },
+        "ground": {
+            "uno": "#DEB887",
+            "dos": "linear-gradient( #DEB887 20%, #0000ff50  100%)"
+        },
+        "rock": {
+            "uno": "#CD853F",
+            "dos": "linear-gradient( #CD853F 20%, #CD853F70  100%)"
+        },
+        "bug": {
+            "uno": "#99CC33",
+            "dos": "linear-gradient( #99CC33 20%, #99CC3370  100%)"
+        },
+        "ghost": {
+            "uno": "#778899",
+            "dos": "linear-gradient( #778899 20%, #77889970  100%)"
+        },
+        "steel": {
+            "uno": "#CCCCCC",
+            "dos": "linear-gradient( #CCCCCC 20%, #0000ff70 100%)"
+        },
+        "fire": {
+            "uno": "#EB6041",
+            "dos": "linear-gradient( #EB6041 20%, #E7941E 100%)"
+        },
+        "water": {
+            "uno": "#0055BB",
+            "dos": "linear-gradient( #0055BB90 20%, #B0E2FF 100%)"
+        },
+        "grass": {
+            "uno": "#44BB44",
+            "dos": "linear-gradient( #44DD44 20%, #44BB4470 100%)"
+        },
+        "electric": {
+            "uno": "#FFD700",
+            "dos": "linear-gradient( #FFD700 20%, #E7941E  100%)"
+        },
+        "psychic": {
+            "uno": "#EFA5A0",
+            "dos": "linear-gradient( #EFA5A0 20%, #EFA5A070  100%)"
+        },
+        "ice": {
+            "uno": "#ADD8E6",
+            "dos": "linear-gradient( #ADD8E6 20%, #0000ff70  100%)"
+        },
+        "dragon": {
+            "uno": "#AB82FF",
+            "dos": "linear-gradient( #AB82FF 20%, #0000ff70  100%)"
+        },
+        "dark": {
+            "uno": "#230C2E",
+            "dos": "linear-gradient( #230C2E 20%, #230C2E70  100%)"
+        },
+        "fairy": {
+            "uno": "#FF50FA",
+            "dos": "linear-gradient( #FFB0FF 20%, #FFB0FF70  100%)"
+        },
+        "unknown": {
+            "uno": "#FFA07A",
+            "dos": "linear-gradient( #FFA07A 20%, #0000ff70  100%)"
+        },
+        "shadow": {
+            "uno": "#A9A9A9",
+            "dos": "linear-gradient( #A9A9A9 20%, #0000ff70  100%)"
+        }
+}
