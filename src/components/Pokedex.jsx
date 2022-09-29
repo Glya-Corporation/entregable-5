@@ -49,11 +49,7 @@ const Pokedex = () => {
         }
 
         setPage(valor)
-        console.log(page)
-        console.log(valor)
     }
-
-    console.log(totalPage);
 
     const navigate = useNavigate();
 

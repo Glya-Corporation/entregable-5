@@ -23,8 +23,6 @@ const PokedexDetail = () => {
             })
     }, [])
 
-    console.log(types)
-    console.log(colors)
 
     return (
         <div className="cartPokemonCurrent">
