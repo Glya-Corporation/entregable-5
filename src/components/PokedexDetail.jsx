@@ -72,6 +72,7 @@ const PokedexDetail = () => {
                     <div className="div" style={{background: `${colors[types[0]?.type.name]?.dos}`, width: `${currentPokemon.stats?.[5].base_stat > 100 ? '100' : `${currentPokemon.stats?.[5].base_stat}`}%` }}></div>
                 </article>
             </section>
+            <h2 className='moves-title'>Moves</h2>
             <section className="moves">
                 {
                     moves.map(move => (
