@@ -63,7 +63,7 @@ const Pokedex = () => {
 
 
     const searchName = () => {
-        navigate(`/pokedex/${valueInput}`)
+        navigate(`/pokedex/${valueInput.toLowerCase()}`)
         searchType(valueInput)
     }
 
